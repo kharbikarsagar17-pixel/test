@@ -9,6 +9,7 @@
 #include <stdbool.h>
 
 #define CHI_VERSION "1.0.0"
+#define CHI_BUFFER_INTEGRATED 1
 
 typedef struct {
     uint8_t *buffer;

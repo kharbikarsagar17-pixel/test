@@ -23,6 +23,11 @@ A modular operating system simulator and cryptographic utilities library.
 - **rho.c** - Regular expression engine with pattern matching support
 - **sigma.c** - Signal processing module with FFT and filtering capabilities
 - **tau.c** - Time and date utilities with formatting functions
+- **upsilon.c** - Memory pool allocator and tracking utilities
+- **phi.c** - Checksum and hashing algorithms (CRC32, Adler32, FNV-1a)
+- **chi.c** - High-performance circular ring buffer
+- **psi.c** - Pseudo-random number generator and entropy collection
+- **omega.c** - System status diagnostics and health telemetry
 
 ## Building
 
